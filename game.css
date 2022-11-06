@@ -1,0 +1,19 @@
+body{
+	background-image: linear-gradient(to bottom left, rgb(255, 103, 250), rgb(190, 160, 255) , white);
+}
+div{
+	align-items: center;
+}
+#button_{
+	background-image: linear-gradient(to bottom right, rgb(255, 150, 222), rgb(181, 90, 255));
+}
+h3{
+	font-weight: bolder;
+	font-size: xx-large;
+	color: white;
+}
+label{
+	font-weight: 600;
+	font-size: x-large;
+	color: white;
+}
